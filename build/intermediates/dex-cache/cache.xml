@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f56dddff34cff0dbee840d1a0f4218eec51c4895">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f2b3e72f3041f89c2694e084c0989ad7897b6ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/f98ba48aeb76a4be272d4113f5801711fd30c5f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_592993c7272fec2aedc55109943e4e4463f197df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/6523d4e111ece8ee3e441ce0717160cbf895cd04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cca8e2ccaad3f2cc39efc1849a08f64dbb2ec700/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/a7d1fdb0a5a7bc7dc2cb82e4138b591d6357f067/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4803146d13b26d149f0e76222f0e61ad16c07254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/34ffcafde83674cb365fcebf376d55e98e43b01d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51477ce22f6646d24b1a3d33d1a53e75aebd8dff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c83abcff692dacd012476eda550e6ecde15f1a3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/13ba8741310859ffdafef72f71b36b31290b8ab2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_964b57b25c510f0ec85d301f6f86514a5b02edde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/866f22c060366f3feec4bcc5108c3afa980924af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_806d8bd02bc2333f5e21e748dcbafc8a4642901e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/f1ce39b2b8ad15c9fd15e38a00e2bda4c17f813e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_948638be3754743312b6694f24914b0e818949f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/990949388f37578f580db4b6dd03c7c5ef41f2aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17eb757309b20d7da1d25c10d67073e704960e3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/8d0b49668c155aca07be1d750e4a82e2cf0a68b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_441992a0726f01508263e656a16d235ccdc738d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha8/constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha8_85a8079a1583a35787b74d0f188a6f8b2941c383/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1c5bffe396fd523c83fe75a6efb763ce03db5d53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maninderpal/.android/build-cache/0bab9ed6ba13ed0d78950b9d1cc59e742793b476/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="/Users/maninderpal/Desktop/Android_studio/Sensor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64d51ab3bdc37892c096555037adade12d0343f8/classes.dex" />
+    </item>
+
+</items>

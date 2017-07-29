@@ -1,0 +1,3 @@
+/Users/maninderpal/Desktop/Android_studio/Sensor/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
+/Users/maninderpal/Desktop/Android_studio/Sensor/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir
+/Users/maninderpal/Desktop/Android_studio/Sensor/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/native-lib.dir
